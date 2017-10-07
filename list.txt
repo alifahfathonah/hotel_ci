@@ -1,0 +1,78 @@
+ hotel:
+
+1. kamar:
+
+[kelas]
+-standar room [15] LT.3 [no kamar 301 - 315]
+			triple room[3] , double room[3] , twin room[5] , single room[4]
+(DONE)
+
+-premium room [10] LT.3 [no kamar 316 - 320]
+			triple room[1] , double room[1] , twin room[1] , single room[2] 
+	
+
+
+-president room [2] LT.4 [no kamar President1 - President2]
+
+
+
+[fasilitas]
+-single room
+-twin room = 2 ranjang
+-double room = 1 ranjang 2 orang
+-triple room = 2 ranjang 3 orang
+
+
+2. ballroom
+
+3. mini ballroom
+
+
+terdiri dari 4 lantai:
+
+lantai 1 = mini ballroom [2]
+lantai 2 = ballroom [1] , kamar [20] = deluxe room [5 kamar] , siute room [5 kamar] , studio room [5 kamar]
+lantai 3 = ballroom [1] , kamar [20] = standart room [15 kamar] , premium room [5 kamar]
+lantai 4 = president room [2]
+
+
+jumlah ranjang
+lantai 2 = 
+
+
+
+database:
+
+-user:
+.admin
+.resepsionis
+.pelanggan
+
+-ruangan
+
+-lantai
+
+-transaksi
+
+
+*Level:
+-resepsonis
+-super admin
+-admin
+
+
+
+fasilitas:
+- Fasilitas WIFI gratis di seluruh hotel
+- Layanan Laundry
+- Tempat Parkir tertutup
+- Gym 24 Jam
+- Layanan Kamar 24 jam
+- Kolam Renang
+- Sarapan Gratis
+- AC
+- TV
+- Ukuran kamar
+
+
+
